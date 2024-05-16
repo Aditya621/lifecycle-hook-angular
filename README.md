@@ -1,3 +1,5 @@
-# lifecycle-hook-angular
+# lifecycle-hook-angular by Aditya Singh
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Aditya621/lifecycle-hook-angular)
+Please see the Console for better understanding.
+
+[Life Cycle Hooks of Angular ⚡️](https://stackblitz.com/~/github.com/Aditya621/lifecycle-hook-angular)
